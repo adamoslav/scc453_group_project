@@ -1,5 +1,5 @@
-# SCC 453 Group Project: Environmental Drivers on Moth Abundance
-A group project for SCC 453 module. This project analyzed **ECN (Environmental Change Network)** moth data from **1992 to 2015** and evaluated how different meteorological aspects affect moth population in the United Kingdom.
+# SCC 450 Group Project: Environmental Drivers on Moth Abundance
+A group project for SCC 450 module (Introduction to AI and Data Science). This project analyzed **ECN (Environmental Change Network)** moth data from **1992 to 2015** and evaluated how different meteorological aspects affect moth population in the United Kingdom.
 
 The project answered three main research questions:
 1. **What moth species are the most susceptible to changes in environmental drivers?**
